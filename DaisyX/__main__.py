@@ -64,7 +64,7 @@ from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 HALLO SEMUANYA 👋🏻 !,
-NANA HADIR UNTUK MEMBANTU KAMU NIHH 🤗!.
+DIGI HADIR UNTUK MEMBANTU KAMU NIHH 🤗!.
 
 RAWAT GROUP KAMU, BIAR KAMU NYA ENGGAK CAPEK!!
 JANGAN SIA-SIAIN AKU YA:) !
@@ -73,23 +73,23 @@ JANGAN SIA-SIAIN AKU YA:) !
 
 buttons = [
     [
-        InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/tehmanisangett"),
-        InlineKeyboardButton(text="💬GROUP 1💬", url="https://t.me/Samalete")],
+        InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/Farelse"),
+        InlineKeyboardButton(text="💬GROUP 1💬", url="https://t.me/mplebubos")],
     [
         InlineKeyboardButton(text="❓ BANTUAN ❓", callback_data="help_back"),
-        InlineKeyboardButton(text="📣GROUP 2📣", url="https://t.me/Musikzamm")
+        InlineKeyboardButton(text="📣GROUP 2📣", url="https://t.me/mplebubos")
     ],
     [
         InlineKeyboardButton(
-            text="➕ TAMBAHKAN ➕", url="t.me/nanamanagerbot?startgroup=true"
+            text="➕ TAMBAHKAN ➕", url="t.me/Anto00bot?startgroup=true"
         )
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Komen Utama :* [🤖](https://telegra.ph/file/99e8d3ae5b35846d2d9c3.jpg)
-HEY SEMUANYA! NANA PUNYA BANYAK MODULE NIH, COBA LIAT KEBAWAH ADA PANDUANNYA KAN? NAH COBAIN AJA YA 😜.
+*Komen Utama :* [🤖](https://telegra.ph/file/25707f53a7d6cb20e6627.jpg)
+HEY SEMUANYA! DIGI PUNYA BANYAK MODULE NIH, COBA LIAT KEBAWAH ADA PANDUANNYA KAN? NAH COBAIN AJA YA 😜.
 ✪ /start: Memulai menggunakan saya.
 ✪ /help: Klik ini akan memunculkan modul saya!
 ✪ /settings: 
