@@ -11,7 +11,7 @@ adalah Repo bot telegram untuk membuat bot pengelola managemen biar admin kagak 
 </p>
 
 <p align="center">
-  <a href="https://t.me/Anto00bot"><img src="https://img.shields.io/badge/DIGI BOT-yellow?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/Dikixbot"><img src="https://img.shields.io/badge/DIGI BOT-yellow?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 <details>
