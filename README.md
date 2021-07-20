@@ -1,17 +1,17 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/2284e5d64575d9c83bd2b.jpg">
+  <img src="https://telegra.ph/file/25707f53a7d6cb20e6627.jpg">
 </p>
 
-### NANA BOT
+### DIGI BOT
 adalah Repo bot telegram untuk membuat bot pengelola managemen biar admin kagak capek
 
 <p align="center">
-  <a href="https://t.me/tehmanisangett"><img src="https://img.shields.io/badge/OWNER-blue?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/Farelse"><img src="https://img.shields.io/badge/OWNER-blue?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/nanamanagerbot"><img src="https://img.shields.io/badge/NANA BOT-yellow?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/Anto00bot"><img src="https://img.shields.io/badge/DIGI BOT-yellow?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 <details>
