@@ -103,7 +103,7 @@ HEY SEMUANYA! DIGI PUNYA BANYAK MODULE NIH, COBA LIAT KEBAWAH ADA PANDUANNYA KAN
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Whatever.](t.me/tehmanisangett),[SEGAPUNG](t.me/Akusukakamubanget),"""
+Support them  [Whatever.](t.me/Farelse),[SEGAPUNG](t.me/Akusukakamubanget),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
